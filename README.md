@@ -23,7 +23,7 @@ To see whether Disblock Origin Lite is properly installed, check for the logo at
 
 # What does this change over Disblock Origin?
 
-Disblock Origin is a nice idea, but it removes way to much. Like the gif panel, sitckers, and even profile effects. When all it needed to do was remvoe the Nitro upsells.
+Disblock Origin is a nice idea, but it removes way to much. Like the gif panel, sitckers, and even profile effects. When all it needed to do was remove the Nitro upsells.
 For people who already have Nitro, you will loose a lot of features of the app, and nitro.
 Not to mention that this theme completly hid the billing section, server boost section, and more from the settings pannel making it very hard to manager your current subscription.
 I added back a lot of this core fuctionality while still hading the upsells, also talking to friends I also kept the Discord shop, you can still find it at the top of the Direct Messages tab, but all the upsells in the profile editor and settings for it are gone.
