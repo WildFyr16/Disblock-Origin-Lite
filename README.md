@@ -1,3 +1,6 @@
+# 301: Moved Permanently
+https://git.gay/WildFyr/Disblock-Origin-Lite
+
 <img src="logo.svg" align="right" alt="A white blue and pink colored Ublock Origin shield with the Discord 'D' in the center.">
 
 # Disblock Origin Lite
