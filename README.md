@@ -12,7 +12,7 @@ A fork of the ad-blocker "Theme" for Discord that hides all Nitro and "boost" up
 
 Use your favorite client mod (such as Vencord) to add the theme. You can use this URL, which mirrors the files on the repo:
 ```
-https://raw.githubusercontent.com/WildFyr16/Disblock-Origin-Lite/main/DisblockOrigin.theme.css
+https://git.gay/WildFyr/Disblock-Origin-Lite/raw/branch/main/DisblockOrigin.theme.css
 ```
 
 ![Install Example](https://github.com/user-attachments/assets/6952b753-7c60-43de-8495-116233902263)
